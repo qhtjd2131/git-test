@@ -5,13 +5,13 @@ const Multiple = () => {
     return (
         <div className="calc-wrapper">
             <div className="number-square">
-                5
+                3
             </div>
             <div className="sign-square">
-                +
+                x
             </div>
             <div className="number-square">
-                2
+                22
             </div>
         </div>
 
