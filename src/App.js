@@ -1,6 +1,7 @@
 import "./App.css";
 import Divide from "./components/Divide";
 import Minus from "./components/Minus";
+import Multiple from "./components/Multiple";
 import Sum from "./components/Sum";
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
       <Sum />
       <Minus />
       <Divide />
+      <Multiple />
     </div>
   );
 }
