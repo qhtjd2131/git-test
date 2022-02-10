@@ -13,6 +13,8 @@ const Sum = () => {
             <div className="number-square">
                 2
             </div>
+      <div className="sign-square">=</div>
+
         </div>
 
     )
