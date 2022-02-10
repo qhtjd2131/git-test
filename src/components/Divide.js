@@ -7,6 +7,8 @@ const Divide = () => {
       <div className="sign-square">/</div>
       <div className="number-square">2</div>
       <div className="sign-square">=</div>
+      <div className="number-square">7</div>
+
     </div>
   );
 };
