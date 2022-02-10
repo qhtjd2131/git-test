@@ -2,10 +2,13 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
+  gap : 20px;
 }
 .calc-wrapper {
   display: flex;
 }
+
 .number-square {
   width: 100px;
   height: 100px;

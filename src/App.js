@@ -1,14 +1,14 @@
-import './App.css';
-import Sum from './components/Sum';
+import "./App.css";
+import Minus from "./components/Minus";
+import Sum from "./components/Sum";
 
 function App() {
   return (
-    <div className='app'>
+    <div className="app">
       <Sum />
 
-
+      <Minus />
     </div>
-    
   );
 }
 
