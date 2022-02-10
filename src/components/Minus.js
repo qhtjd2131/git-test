@@ -7,6 +7,8 @@ const Minus = () => {
       <div className="sign-square">-</div>
       <div className="number-square">8</div>
       <div className="sign-square">=</div>
+      <div className="number-square">7</div>
+
 
     </div>
   );
